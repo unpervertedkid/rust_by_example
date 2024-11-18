@@ -1,4 +1,6 @@
 [workspace]
 members = [
-    "topics/*/*,
+    "topics/*/*",
 ]
+
+resolver = "2"
